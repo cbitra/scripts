@@ -14,5 +14,6 @@ then
 	echo "Password Accepted".
 else 
 	echo "Password did not match."
+	echo
 fi
 
